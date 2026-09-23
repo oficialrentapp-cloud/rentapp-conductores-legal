@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Eliminar cuenta - RentApp Conductores</title>
+
+    <meta
+        name="description"
+        content="Información y procedimiento para solicitar la eliminación de una cuenta de RentApp Conductores."
+    >
+
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            background-color: #121212;
+            color: #f1f1f1;
+        }
+
+        .contenedor {
+            max-width: 850px;
+            margin: 0 auto;
+            padding: 32px 20px 60px;
+        }
+
+        h1 {
+            color: #ffffff;
+            margin-bottom: 8px;
+        }
+
+        h2 {
+            color: #ffffff;
+            margin-top: 32px;
+        }
+
+        p,
+        li {
+            color: #d0d0d0;
+        }
+
+        .aclaracion {
+            background-color: #1e1e1e;
+            border-left: 4px solid #f44336;
+            padding: 16px;
+            margin: 24px 0;
+            border-radius: 6px;
+        }
+
+        .boton {
+            display: inline-block;
+            margin-top: 12px;
+            padding: 14px 20px;
+            background-color: #f44336;
+            color: #ffffff;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 8px;
+        }
+
+        .boton:hover {
+            opacity: 0.9;
+        }
+
+        a {
+            color: #64b5f6;
+        }
+
+        .pie {
+            margin-top: 48px;
+            padding-top: 20px;
+            border-top: 1px solid #333333;
+            font-size: 14px;
+            color: #9e9e9e;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="contenedor">
+
+    <h1>Eliminar cuenta de RentApp Conductores</h1>
+
+    <p>
+        Esta página explica cómo eliminar una cuenta de RentApp Conductores
+        y qué ocurre con los datos asociados.
+    </p>
+
+    <h2>Eliminar la cuenta desde la aplicación</h2>
+
+    <p>
+        Si todavía tiene acceso a RentApp Conductores, puede eliminar su
+        cuenta directamente desde la Aplicación.
+    </p>
+
+    <p>
+        La opción <strong>Eliminar cuenta</strong> se encuentra disponible
+        tanto para usuarios con acceso Premium como para usuarios que se
+        encuentren en la pantalla de suscripción.
+    </p>
+
+    <p>
+        Antes de realizar la eliminación, RentApp muestra una advertencia
+        explicando que la operación es permanente.
+    </p>
+
+    <h2>Solicitar la eliminación sin tener la aplicación instalada</h2>
+
+    <p>
+        Si ya no tiene RentApp instalada, no puede acceder a su cuenta
+        desde la Aplicación o necesita asistencia para eliminarla, puede
+        enviarnos una solicitud por correo electrónico.
+    </p>
+
+    <p>
+        Utilice la misma dirección de correo electrónico con la que registró
+        su cuenta de RentApp e indique en el mensaje cuál es la cuenta que
+        desea eliminar.
+    </p>
+
+    <a
+        class="boton"
+        href="mailto:oficialrentapp@gmail.com?subject=Solicitud%20de%20Eliminaci%C3%B3n%20de%20Cuenta&body=Solicito%20la%20eliminaci%C3%B3n%20de%20mi%20cuenta%20de%20RentApp%20Conductores.%0A%0ACorreo%20registrado%20en%20RentApp%3A%20"
+    >
+        Solicitar eliminación de cuenta
+    </a>
+
+    <p>
+        También puede escribir manualmente a:
+        <a href="mailto:oficialrentapp@gmail.com">
+            oficialrentapp@gmail.com
+        </a>
+    </p>
+
+    <p>
+        Asunto recomendado:
+        <strong>Solicitud de Eliminación de Cuenta</strong>
+    </p>
+
+    <h2>Qué información se elimina</h2>
+
+    <p>
+        Cuando una cuenta de RentApp es eliminada, se eliminan los datos
+        personales directamente asociados a esa cuenta dentro de los
+        sistemas activos de RentApp.
+    </p>
+
+    <p>Esto puede incluir:</p>
+
+    <ul>
+        <li>La cuenta de autenticación de RentApp.</li>
+        <li>La dirección de correo electrónico asociada a la cuenta.</li>
+        <li>El identificador de usuario de Firebase asociado a la cuenta.</li>
+        <li>El documento principal de usuario almacenado en Firestore.</li>
+        <li>Los vínculos personales existentes en los registros técnicos relacionados con dispositivos y suscripciones.</li>
+    </ul>
+
+    <p>
+        Cuando la eliminación se realiza desde la Aplicación, RentApp
+        también elimina del dispositivo actual las preferencias locales
+        y las bases de datos locales utilizadas para funciones como
+        historial y mantenimiento.
+    </p>
+
+    <h2>Información técnica que puede conservarse</h2>
+
+    <p>
+        Para prevenir fraude, abuso de pruebas gratuitas y reutilización
+        indebida de compras, RentApp puede conservar determinados registros
+        técnicos mínimos después de que una cuenta haya sido eliminada.
+    </p>
+
+    <p>Estos registros pueden incluir:</p>
+
+    <ul>
+        <li>
+            El Android ID de un dispositivo que ya haya utilizado una
+            prueba gratuita.
+        </li>
+
+        <li>
+            El registro de que dicho dispositivo ya consumió una prueba.
+        </li>
+
+        <li>
+            Un hash criptográfico derivado de un purchase token asociado
+            anteriormente a una cuenta.
+        </li>
+
+        <li>
+            Marcas técnicas y fechas relacionadas con la desvinculación
+            o eliminación de la cuenta.
+        </li>
+    </ul>
+
+    <p>
+        Cuando una cuenta es eliminada, RentApp elimina de estos registros
+        los vínculos directos utilizados para relacionarlos con la cuenta,
+        como la dirección de correo electrónico y el UID de Firebase.
+    </p>
+
+    <p>
+        Estos registros se utilizan exclusivamente para seguridad,
+        prevención de fraude y protección del sistema de suscripciones.
+    </p>
+
+    <div class="aclaracion">
+        <strong>Importante:</strong>
+        eliminar una cuenta de RentApp Conductores no cancela automáticamente
+        una suscripción activa contratada mediante Google Play.
+        Si existe una suscripción activa, debe administrarse o cancelarse
+        desde Google Play.
+    </div>
+
+    <h2>Tiempo de procesamiento</h2>
+
+    <p>
+        Las eliminaciones realizadas directamente desde la Aplicación se
+        procesan de forma automática cuando el sistema puede completar
+        correctamente la solicitud.
+    </p>
+
+    <p>
+        Las solicitudes enviadas por correo electrónico serán revisadas y
+        procesadas una vez que podamos identificar correctamente la cuenta
+        correspondiente. Si fuera necesario, podremos solicitar información
+        adicional únicamente para verificar que la solicitud corresponde al
+        titular de la cuenta.
+    </p>
+
+    <h2>Más información</h2>
+
+    <p>
+        Para obtener información más detallada sobre el tratamiento de datos
+        personales, puede consultar nuestra
+        <a href="privacidad.html">Política de Privacidad</a>.
+    </p>
+
+    <div class="pie">
+        RentApp Conductores<br>
+        Contacto:
+        <a href="mailto:oficialrentapp@gmail.com">
+            oficialrentapp@gmail.com
+        </a>
+    </div>
+
+</div>
+
+</body>
+</html>
