@@ -6,7 +6,7 @@ Estos Términos y Condiciones ("Términos") regulan el acceso y uso de RentApp C
 
 Al descargar, acceder o utilizar la Aplicación, usted acepta quedar sujeto a estos Términos.
 
-La Aplicación es operada y desarrollada por Patricio Gabriel Diaz Gallo, con sede en San Miguel de Tucumán, Argentina.
+RentApp Conductores es operada desde San Miguel de Tucumán, Argentina.
 
 Si tiene alguna pregunta sobre estos Términos, puede contactarnos a través de:
 
