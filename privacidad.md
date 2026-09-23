@@ -167,9 +167,19 @@ Como se indica anteriormente, determinados registros técnicos mínimos pueden c
 
 La eliminación de la cuenta de RentApp no cancela automáticamente una suscripción activa de Google Play.
 
+También puede consultar el procedimiento de eliminación de cuenta desde nuestra página pública:
+
+[Eliminar cuenta de RentApp Conductores](https://oficialrentapp-cloud.github.io/rentapp-conductores-legal/eliminar-cuenta.html)
+
 ### 9. Solicitudes de eliminación sin acceso a la Aplicación
 
-Si no puede acceder a RentApp o ya no tiene la Aplicación instalada, puede solicitar la eliminación de su cuenta escribiendo a:
+Si no puede acceder a RentApp, ya no tiene la Aplicación instalada o necesita asistencia para eliminar su cuenta, puede utilizar nuestra página pública de eliminación:
+
+[https://oficialrentapp-cloud.github.io/rentapp-conductores-legal/eliminar-cuenta.html](https://oficialrentapp-cloud.github.io/rentapp-conductores-legal/eliminar-cuenta.html)
+
+Desde esa página podrá consultar el procedimiento para solicitar la eliminación de su cuenta.
+
+También puede comunicarse directamente con nosotros mediante:
 
 [oficialrentapp@gmail.com](mailto:oficialrentapp@gmail.com)
 
@@ -227,6 +237,10 @@ Para realizar una consulta relacionada con sus datos personales puede escribir a
 
 [oficialrentapp@gmail.com](mailto:oficialrentapp@gmail.com)
 
+También puede consultar nuestra página pública de eliminación de cuenta:
+
+[Eliminar cuenta de RentApp Conductores](https://oficialrentapp-cloud.github.io/rentapp-conductores-legal/eliminar-cuenta.html)
+
 Determinados datos técnicos podrán mantenerse cuando exista una finalidad legítima de seguridad y prevención de fraude, conforme se explica en esta Política.
 
 ### 14. Cambios en esta Política de Privacidad
@@ -242,3 +256,7 @@ Si una modificación afecta de forma significativa al tratamiento de datos de lo
 Si tiene preguntas, consultas o solicitudes relacionadas con esta Política de Privacidad o con sus datos personales, puede contactarnos en:
 
 [oficialrentapp@gmail.com](mailto:oficialrentapp@gmail.com)
+
+Para solicitudes específicas relacionadas con eliminación de cuenta:
+
+[Eliminar cuenta de RentApp Conductores](https://oficialrentapp-cloud.github.io/rentapp-conductores-legal/eliminar-cuenta.html)
